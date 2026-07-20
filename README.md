@@ -120,7 +120,16 @@ print(me.introduce())
 </p>
 
 ---
+# 🏆 Achievements
 
+### 🥇 1st Place — AR/VR Track
+**9th National Techno Exhibition**
+
+- Developed an **AI-powered Tactical Smart HUD Helmet**.
+- Integrated **Artificial Intelligence** and **Augmented Reality** to enhance real-time situational awareness.
+- Recognized for innovation, technical implementation, and practical application of the solution.
+
+---
 # 📊 GitHub Stats
 
 <p align="center">
