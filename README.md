@@ -1,16 +1,6 @@
 <!-- ========================= HEADER ========================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,50:7B2FF7,100:FF00FF&text=Akshay%20R&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%E2%80%A2+React+%E2%80%A2+FastAPI+%E2%80%A2+Flask;Building+web+applications;Always+learning+something+new" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Im-Akii&style=for-the-badge&color=7B2FF7" />
-  <img src="https://img.shields.io/github/followers/Im-Akii?style=for-the-badge&color=00F5FF&labelColor=1A1B27" />
 </p>
 
 ---
