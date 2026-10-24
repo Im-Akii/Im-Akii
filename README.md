@@ -147,7 +147,6 @@ print(me.introduce())
 **September 2026** · [Winners page](https://www.wemakedevs.org/aws/first-commit/projects)
 
 - Won **Best UI** with **CampusEvac**, a two-player 3D evacuation drill in the browser, built with a team of three.
-- Awarded **₹1,00,000 + $1,000 in AWS credits**.
 
 ---
 
